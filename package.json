@@ -1,0 +1,11 @@
+{
+  "name": "goit-advancedjs-hw-06",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Roman Onishchenko <orm81zp@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.5"
+  }
+}
